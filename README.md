@@ -4,6 +4,9 @@ This script logs into an Instagram account and likes and comments on posts with 
 Selenium is an open-source tool that automates web browsers.
 
 ## This can be done in various ways:
+
 Permit it to tap on buttons.
+
 Skim your site to check whether everything is okay.
+
 Enter content in structures.
