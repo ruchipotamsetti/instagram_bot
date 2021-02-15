@@ -12,7 +12,7 @@ class Bot():
     ]
 
     def __init__(self):
-        self.login('__testbot', pw)
+        self.login('your_username', pw)
         self.like_comment_by_hashtag('programmer')
     
     def login(self, username, password):
